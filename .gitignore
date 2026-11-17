@@ -36,3 +36,7 @@ all_frontend_ui_strings.json
 filtered_ui_strings.json
 scratch_ui_strings.json
 LOGIN_CREDENTIALS.md
+
+# Local bundled Python dependencies
+.deps/
+libs/
